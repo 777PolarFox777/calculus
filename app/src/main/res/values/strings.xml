@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Calculus</string>
+    <string name="clear_text">Clear</string>
+    <string name="delete_text">Del</string>
+
+
+    <string name="divide_symbol">/</string>
+    <string name="multiply_symbol">*</string>
+    <string name="minus_symbol">-</string>
+    <string name="plus_symbol">+</string>
+    <string name="dot_symbol">.</string>
+    <string name="equals_symbol">=</string>
+
+
+    <string name="digit_0">0</string>
+    <string name="digit_1">1</string>
+    <string name="digit_2">2</string>
+    <string name="digit_3">3</string>
+    <string name="digit_4">4</string>
+    <string name="digit_5">5</string>
+    <string name="digit_6">6</string>
+    <string name="digit_7">7</string>
+    <string name="digit_8">8</string>
+    <string name="digit_9">9</string>
+</resources>
